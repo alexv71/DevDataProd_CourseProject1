@@ -1,4 +1,4 @@
-## Synopsis
+## Develpoing data products - Course Project
 
 #### Description
 Sales forecasting is very important for sales and purchases planning. This case is based on real-life data of company selling metal working machines: benders, turning and milling lathes, etc. We can do this by several various methods: time-series forecasting or building a predicting sales volume model based on macroeconomical factors predicted by famous experts.

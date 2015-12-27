@@ -12,7 +12,7 @@ shinyUI(fixedPage(
 
 title = "Sales forecasting",
 titlePanel(
-        h1("Develpoing data products - Course Project")
+        h1("Sales Forecasting")
 ),
 fixedRow(
         column(2, style = "background-color:#dddddd;",
